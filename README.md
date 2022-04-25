@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @Leawzy
+- 👀 I’m interested in Backend-Development
+- 🌱 I’m currently learning Laravel, PHP and SourcePawn
+- 📫 My Stack Now: HTML, JS, CSS {Grids and Flex} / SCSS, Laravel, PHP
