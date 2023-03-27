@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Backend-Development
 - 🌱 I’m currently learning Laravel, PHP and SourcePawn
 - 📫 My Stack Now: HTML, JS, CSS {Grids and Flex} / SCSS, Laravel, PHP
+
+<a href="#debabin-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leawzy&show_icons=true&locale=en&layout=compact&theme=react" alt="Leawzy" />
+</a>
