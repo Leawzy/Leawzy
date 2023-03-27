@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @Leawzy
+<h1 align="left">:wave: Hello there! I'm Ilya Garshin</h1>
+
+<h4 align="left">I'm a Junior Backend Web Developer from Russia</h4>
+
 - 👀 I’m interested in Backend-Development
-- 🌱 I’m currently learning Laravel, PHP and SourcePawn
+- 🌱 I’m currently learning Laravel, React and Go
 - 📫 My Stack Now: HTML, JS, CSS {Grids and Flex} / SCSS, Laravel, PHP
 
 <a href="#debabin-title">
